@@ -3,6 +3,7 @@ Imersão oferecida pela alura gratuitamente, contando com 5 aulas que são liber
 
 ## Aula 1
 Nessa aula aprendemos sobre criação de variáveis, realização de cálculos utilizando valores pré-determinados tal como utilização de métodos para arredondamento de valores.
+_Data: 30/01/2023_
 
 __Desafios deixados durante a aula__
 
