@@ -30,7 +30,7 @@ __Desafios deixados durante a aula__
 
 ## Aula 3
 
-Nessa aula aprendemos sobre como criar elementos HTML utilizando o javascript (document.write), tal como criar listas para facilitar a impressão de várias variáveis por meio do laço de repetição (For). _Data: 31/01/2023_
+Nessa aula aprendemos sobre como criar elementos HTML utilizando o javascript (document.write), tal como criar listas para facilitar a impressão de várias variáveis por meio do laço de repetição (For). _Data: 01/02/2023_
 
 - [ ] Escolher o seu tema preferido para adaptar ao nosso código, ou seja, ao invés de filmes pode ser uma lista de animes, HQ 's, cursos, capas de jogos, entre outros;
 
