@@ -17,6 +17,17 @@ __Desafios deixados durante a aula__
 
 ## Aula 2
 
+Nessa aula aprendemos sobre criação estruturas de decisão para comparação de valores utilizando as estruturas If e Else
+_Data: 31/01/2023_
+
+__Desafios deixados durante a aula__
+
+- [ ] Adicionar um número de tentativas para a pessoa tentar acertar e imprimir a resposta no final;
+
+- [ ] Quando a pessoa errar, deixe na mensagem se o número chutado é maior ou menor que o número secreto;
+
+- [ ] Pesquisar e aprender a diferença entre == e ===.
+
 ## Aula 3
 
 ## Aula 4
