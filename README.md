@@ -17,7 +17,7 @@ __Desafios deixados durante a aula__
 
 ## Aula 2
 
-Nessa aula aprendemos sobre criação estruturas de decisão para comparação de valores utilizando as estruturas If e Else
+Nessa aula aprendemos sobre criação estruturas de decisão para comparação de valores utilizando as estruturas If e Else. Vimos também laço de repetição com teste no ínicio (While), tal como gerador de números aletórios com o Math.random().
 _Data: 31/01/2023_
 
 __Desafios deixados durante a aula__
