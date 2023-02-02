@@ -1,4 +1,4 @@
-# Imersao Dev - Alura (1° Semestre de 2023)
+# Imersão Dev - Alura (1° Semestre de 2023)
 Imersão oferecida pela alura gratuitamente, contando com 5 aulas que são liberadas dia a dia a partir de 30/01 até 03/02.
 
 ## Aula 1
