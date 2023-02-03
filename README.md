@@ -42,5 +42,15 @@ Nessa aula aprendemos sobre como criar elementos HTML utilizando o javascript (d
 
 ## Aula 4
 
+Nessa aula aprendemos a criar uma função que é ativada por um botão incluso no HTML, por meio do parâmetro OnClick. Utilizamos também o getElemEntById (ID) para recuperar o valor de um input por meio do .value, tal como para realizar junções de tags com HTML já existente e também limpar o conteúdo de um imput, facilitando assim a usabilidade do site. _Data: 02/02/2023_
+
+- [ ] Criar um botão para remover um filme na tela;
+
+- [ ] Além de colocar a imagem do filme, também adicionar o nome por meio de outro input;
+
+- [ ] Guardar todos os filmes adicionados em uma lista/array e percorrer essa lista toda vez que quiser imprimir ou remover o filme.
+
+- [ ] Quando usuário clicar na imagem do filme ser direcionado para o trailer no youtube
+
 ## Aula 5
  
