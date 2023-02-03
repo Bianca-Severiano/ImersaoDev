@@ -1,4 +1,4 @@
-# Imersao Dev - Alura (1° Semestre de 2023)
+# Imersão Dev - Alura (1° Semestre de 2023)
 Imersão oferecida pela alura gratuitamente, contando com 5 aulas que são liberadas dia a dia a partir de 30/01 até 03/02.
 
 ## Aula 1
@@ -29,6 +29,16 @@ __Desafios deixados durante a aula__
 - [ ] Pesquisar e aprender a diferença entre == e ===.
 
 ## Aula 3
+
+Nessa aula aprendemos sobre como criar elementos HTML utilizando o javascript (document.write), tal como criar listas para facilitar a impressão de várias variáveis por meio do laço de repetição (For). _Data: 01/02/2023_
+
+- [ ] Escolher o seu tema preferido para adaptar ao nosso código, ou seja, ao invés de filmes pode ser uma lista de animes, HQ 's, cursos, capas de jogos, entre outros;
+
+- [ ] Tentar implementar outras versões da estrutura de repetição que fizemos com for, como por exemplo com foreach ou while;
+
+- [ ] Criar uma condição para não adicionar filmes repetidos, caso eles já tenham sido adicionados anteriormente;
+
+- [ ] Criar um campo e botão para adicionar a imagem pela tela, e não direto no código.
 
 ## Aula 4
 
