@@ -54,7 +54,7 @@ Nessa aula aprendemos a criar uma função que é ativada por um botão incluso 
 
 ## Aula 5
 
-Nessa aula aprendemos a utilizar objetos para definir o perfil de cada jogador e ir manipulando seus atributos com as funções determinadas como "Vitórias", "Derrotas" e "Empates", para então ao fim, gerarmos uma tabelas de pontos_Data: 03/02/2023_
+Nessa aula aprendemos a utilizar objetos para definir o perfil de cada jogador e ir manipulando seus atributos com as funções determinadas como "Vitórias", "Derrotas" e "Empates", para então ao fim, gerarmos uma tabelas de pontos. _Data: 03/02/2023_
  
  - [ ] Fazer a lógica de quando houver um empate, obrigatoriamente deveria já ajustar como empate para os demais jogadores;
  
