@@ -1,5 +1,5 @@
 /*Primeiro comando - Apresentar mensagem na tela */
-alert('Vamos iniciar nossa imersão agora!')
+//alert('Vamos iniciar nossa imersão agora!')
 
 //Projeto da Aula 1 - Conversor de moedas
 
@@ -8,9 +8,9 @@ alert('Vamos iniciar nossa imersão agora!')
  2 - Armazenar o resultado da razão entre as duas variáveis em uma terceira chamada 
  ValorEm Real - Apresentar o resultado*/
 
-var ValorEmDolar = 30;
-var CotacaoDolar = 5.32;
-var ValorEmReal = ValorEmDolar * CotacaoDolar;
+//var ValorEmDolar = 30;
+// var CotacaoDolar = 5.32;
+// var ValorEmReal = ValorEmDolar * CotacaoDolar;
 
 /*Arredondamento de valores (Duas casas decimais) - Mozzila Javascript
 
@@ -18,6 +18,36 @@ var ValorEmReal = ValorEmDolar * CotacaoDolar;
  - toFixedd() - Formata um núdero utilizando notação de ponto fixo
 
     Atribuir resultado a mesma variável já criada anteriormente*/
+// alert ('R$'+ ValorEmReal);
+function texto(Moeda) {
+    elementoSub.innerHTML = elementoSub.innerHTML + '<p>Convertendo ' + Moeda +' para Real'
+}
 
-ValorEmReal = ValorEmReal.toFixed(2);
-alert ('R$'+ ValorEmReal);
+function apagatexto () {
+    elementoSub.innerHTML = ''
+}
+
+var Moeda = ''
+var elementoSub = document.getElementById('subtitulo')
+
+function converteWon () {
+   apagatexto()
+   var Moeda = document.getElementById('moedaWon').value
+   texto(Moeda)
+}
+
+function converteDolar() {
+    apagatexto()
+    var Moeda = document.getElementById('moedaDolar').value
+    texto(Moeda)
+}
+
+function converteEuro() {
+    apagatexto()
+    var Moeda = document.getElementById('moedaEuro').value
+    texto(Moeda)
+}
+
+
+
+

@@ -1,24 +1,40 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Conversor de Moedas</title>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conversor de Moedas</title>
 </head>
+
 <body>
-    <div class="container">
-        <h1 class="page-title">
-          Conversor de moedas
-        </h1>
-        <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-aluraflix.svg" class="page-logo" alt="">
-      </div>
-      <a href="https://alura.com.br/" target="_blank">
-        <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
-        <img src="https://caelum-online-public.s3.amazonaws.com/assets-imersaodev/Convers%C3%A3o+1.png">
-      </a>
+  <div class="container">
+    <h1 class="page-title">
+      Conversor de Moedas!
+    </h1>
+    <h2>Escolha qual moeda deseja converter para real:</h2>
+    <div class="botoes">
+      <input type="button" value="Won" id="moedaWon" onclick="converteWon()">
+      <input type="button" value="Dólar" id="moedaDolar" onclick="converteDolar()">
+      <input type="button" value="Euro" id="moedaEuro" onclick="converteEuro()">
+    </div>
+
+
+    <div class="subtitulo" id="subtitulo">
+    </div>
+
+    <div class="inputs">
+      
+      <input type="text" name="valorDigitado" id="Digitado" placeholder="Digite valor que deseja converter" >
+      <input type="text" name="valorConvertido" id="Convertido" readonly="true" placeholder="R$">
+      <input type="text" name="valorConvertidoBitcoin" id="Bitcoin" readonly="true" placeholder="₿">
+    </div>
+  </div>
+
+
 </body>
 <link rel="stylesheet" href="style.css">
 <script src="javascript.js"></script>
+
 </html>
